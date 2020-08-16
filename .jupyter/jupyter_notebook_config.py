@@ -263,11 +263,8 @@
 #c.NotebookApp.nbserver_extensions = {}
 
 ## The directory to use for notebooks and kernels.
-<<<<<<< HEAD
 c.NotebookApp.notebook_dir = 'C:\Users\uk0305\Desktop\python_study-master'
-=======
-c.NotebookApp.notebook_dir = 'E:\dwkim_doc'
->>>>>>> 878f44e20ebf35184767a917e948c026fbc88ad6
+
 
 ## Whether to open in a browser after starting. The specific browser used is
 #  platform dependent and determined by the python standard library `webbrowser`
