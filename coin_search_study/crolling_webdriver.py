@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 options = Options()
 options.add_argument('--headless')
 options.add_argument('disable-gpu')
-driver = webdriver.Chrome('c:/Users/uk0305/Desktop/Programming/crolling/chromedriver.exe')
+driver = webdriver.Chrome('F:\python_study\coin_search_study\chromedriver.exe')
 #driver = webdriver.PhantomJS('/Users/uk0305/Desktop/Programming/crolling/phantomjs-2.1.1-windows/bin/phantomjs.exe')
 driver.implicitly_wait(3)
 
